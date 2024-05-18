@@ -2,7 +2,7 @@
 
 
 ## project link
-[Click here](https://stackblitz.com/edit/dom-project-chaiaurcode?file=index.html)
+[Click here](https://stackblitz.com/edit/stackblitz-starters-l8ybra?file=index.html)
 
 #Solution Code
 
