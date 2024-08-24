@@ -1,3 +1,3 @@
 # Javascript
-A js code repository
+A js code repository.
 
