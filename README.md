@@ -1,2 +1,3 @@
 # Javascript
-A code repo chai aur code youtube channel
+A js code repository
+
